@@ -1,0 +1,23 @@
+export const KOGI_LGAS = [
+    "Adavi",
+    "Ajaokuta",
+    "Ankpa",
+    "Bassa",
+    "Dekina",
+    "Ibaji",
+    "Idah",
+    "Igalamela-Odolu",
+    "Ijumu",
+    "Kabba/Bunu",
+    "Kogi",
+    "Lokoja",
+    "Mopa-Muro",
+    "Ofu",
+    "Ogori/Magongo",
+    "Okehi",
+    "Okene",
+    "Olomaboro",
+    "Omala",
+    "Yagba East",
+    "Yagba West"
+].sort();
